@@ -7,5 +7,9 @@ ducoup
 ça 
 va
 ?
+<<<<<<< HEAD
 ceci est une modification locale
+=======
+ceci est une modification distante
+>>>>>>> 1148321ba725cbc89885d696f505caac30b80d5c
 
